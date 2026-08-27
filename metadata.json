@@ -1,0 +1,6 @@
+{
+  "name": "OrbitalLens - Satellite Vision & Remote Sensing AI",
+  "description": "Satellite imagery analysis platform featuring RS-VLM land cover description, visual grounding segmentation, bi-temporal Siamese change detection, optical + SAR radar multi-sensor fusion, and time-series built-up area analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
